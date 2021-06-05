@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761057508192",
+    "project_id": "excelapptry",
+    "storage_bucket": "excelapptry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761057508192:android:5b766aa54b567c50ce7c05",
+        "android_client_info": {
+          "package_name": "com.example.excelapptry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761057508192-i01i4p72ckv72vtni4pjcrd40gr2ivsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVi-kD_5IqvQhLOVigsJB8bR1xp__mbFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761057508192-i01i4p72ckv72vtni4pjcrd40gr2ivsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
